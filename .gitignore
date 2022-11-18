@@ -1,9 +1,0 @@
-node_modules 
- .cache 
- .idea 
- .vscode 
- .DS_Store 
-  
- /build/ 
- /dist/ 
- /dev/
